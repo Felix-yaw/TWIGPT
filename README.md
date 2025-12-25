@@ -78,7 +78,7 @@ If you use TwiGPT in your research or applications, please cite:
   title = {TwiGPT: A Transformer-Based Language Model for Twi},
   year = {2025},
   publisher = {Hugging Face},
-  howpublished = {\url{https://huggingface.co/your-username/twigpt}}
+  howpublished = {\url{https://huggingface.co/FelixYaw/twi-lora-model}}
 }
 ```
 
@@ -90,7 +90,7 @@ TwiGPT was developed as a capstone project at the University of Ghana, Departmen
 
 For questions, feedback, or collaboration opportunities:
 - Email: azaglowiliam@gmail.com
-- GitHub: [Your GitHub profile]
+- GitHub: [Felix-yaw]
 
 ## Acknowledgments
 
@@ -98,7 +98,7 @@ This project was inspired by the belief that AI should serve everyone, regardles
 
 ---
 
-**License**: [Specify your license, e.g., MIT, Apache 2.0, etc.]
+**License**: [Apache 2.0]
 
 **Model Version**: 1.0
 
