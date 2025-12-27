@@ -34,7 +34,7 @@ def test_asr():
     try:
         # Create service
         service = create_speech_service()
-        print("Service created successfully")
+        print("Service created successfully for test use ")
 
         # Test transcription
         result = service.transcribe_audio(audio_path, language="en")
