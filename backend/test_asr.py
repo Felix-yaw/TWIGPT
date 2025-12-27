@@ -25,7 +25,7 @@ def create_test_audio():
         return temp_file.name
 
 def test_asr():
-    print("Testing ASR service...")
+    print("Testing ASR service to see if it works properly...")
 
     # Create test audio
     audio_path = create_test_audio()
