@@ -29,7 +29,7 @@ def test_asr():
 
     # Create test audio
     audio_path = create_test_audio()
-    print(f"Created test audio: {audio_path}")
+    print(f"Created test audio from user: {audio_path}")
 
     try:
         # Create service
